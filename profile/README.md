@@ -5,3 +5,6 @@ LLM agents play a murder mystery TRPG
 
 ## Cycle
 ![diagram](cycle.svg)
+
+## Page
+![page](page.svg)
