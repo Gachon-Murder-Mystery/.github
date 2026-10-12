@@ -8,3 +8,12 @@ LLM agents play a murder mystery TRPG
 
 ## Page
 ![page](page.svg)
+
+
+## 👨‍💻 팀원 소개
+
+| 이름 | 담당 |
+| :--- | :--- |
+| **박천웅** | Engine Dev |
+| **이재형** | Game Master Dev |
+| **황규한** | Multi-Agent Dev |
